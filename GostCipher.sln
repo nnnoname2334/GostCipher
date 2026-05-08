@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36811.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GostCipher", "GostCipher\GostCipher.csproj", "{B3CA6CA9-CA59-4953-BE41-825965B4ED4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GostCipher.Tests", "GostCipher.Tests\GostCipher.Tests.csproj", "{9F772139-6DCA-494D-823E-0B07E9AB1B38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B3CA6CA9-CA59-4953-BE41-825965B4ED4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3CA6CA9-CA59-4953-BE41-825965B4ED4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3CA6CA9-CA59-4953-BE41-825965B4ED4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F772139-6DCA-494D-823E-0B07E9AB1B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F772139-6DCA-494D-823E-0B07E9AB1B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F772139-6DCA-494D-823E-0B07E9AB1B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F772139-6DCA-494D-823E-0B07E9AB1B38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

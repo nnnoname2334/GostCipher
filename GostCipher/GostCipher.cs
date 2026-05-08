@@ -3,7 +3,7 @@
 /// <summary>
 /// Упрощённая реализация одного раунда шифра ГОСТ 28147-89.
 /// </summary>
-public static class GostCipher
+public static class GostCipher1
 {
     /// <summary>
     /// S-блоки замены (таблицы подстановки ГОСТ 28147-89).
